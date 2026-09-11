@@ -1,4 +1,3 @@
-package Network_Programming;
 import java.net.InetAddress;  //import the inet class
 public class GetByNameTest{
 
